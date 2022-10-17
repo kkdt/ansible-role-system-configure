@@ -1,0 +1,9 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: kkdt
+  description: Configure the system
+  company: "N/A"
+  license: "None"
+  min_ansible_version: 2.9
